@@ -4,7 +4,7 @@ AngularJS directive to validate CPF/CNPJ numbers, using [cpf_cnpj.js](https://gi
 
 ## How to install
 
-```npm install ng-cpf-cnpj --save```
+```npm install npm-ng-cpf-cnpj --save```
 
 And add to your index.html
 
