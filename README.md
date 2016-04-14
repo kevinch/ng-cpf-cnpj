@@ -1,17 +1,17 @@
-# ng-cpf-cnpj
+# npm-g-cpf-cnpj
 
 AngularJS directive to validate CPF/CNPJ numbers, using [cpf_cnpj.js](https://github.com/fnando/cpf_cnpj.js).
 
 ## How to install
 
-```bower install ng-cpf-cnpj --save```
+```npm install ng-cpf-cnpj --save```
 
 And add to your index.html
 
 ```html
-<script src="bower_components/cpf_cnpj/build/cpf.js"></script>
-<script src="bower_components/cpf_cnpj/build/cnpj.js"></script>
-<script src="bower_components/ng-cpf-cnpj/lib/ngCpfCnpj.js"></script>
+<script src="cpf_cnpj/build/cpf.js"></script>
+<script src="cpf_cnpj/build/cnpj.js"></script>
+<script src="ng-cpf-cnpj/lib/ngCpfCnpj.js"></script>
 ```
 And inject it to your angular.module
 
