@@ -1,6 +1,6 @@
 {
   "name": "npm-ng-cpf-cnpj",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "AngularJS directive to validate CPF/CNPJ numbers. All credits to André Gil.",
   "repository": {
     "type": "git",
