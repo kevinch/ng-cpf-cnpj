@@ -1,6 +1,6 @@
 # npm-g-cpf-cnpj
 
-AngularJS directive to validate CPF/CNPJ numbers, using [cpf_cnpj.js](https://github.com/fnando/cpf_cnpj.js).
+AngularJS directive to validate CPF/CNPJ numbers, using [cpf_cnpj.js](https://github.com/fnando/cpf_cnpj.js). All credits to [André Gil](https://github.com/gil/ng-cpf-cnpj).
 
 ## How to install
 
